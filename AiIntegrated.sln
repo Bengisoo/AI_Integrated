@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiIntegrated", "AiIntegrated\AiIntegrated.csproj", "{77DDF43F-1993-4E7B-A7AC-F979416DAF51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77DDF43F-1993-4E7B-A7AC-F979416DAF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DDF43F-1993-4E7B-A7AC-F979416DAF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DDF43F-1993-4E7B-A7AC-F979416DAF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DDF43F-1993-4E7B-A7AC-F979416DAF51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0217B76-BE48-45A0-82A0-FF4D17FE6EA7}
+	EndGlobalSection
+EndGlobal

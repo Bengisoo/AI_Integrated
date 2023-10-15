@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SYSh0Yj0nXX+5pcL00cR6+J53h53t+VD3XCGCg9vXU3P/Q153vKuphsWLOl9GnB6a/ZElHAsyo4dRNaEU9ZiAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zehra\\source\\repos\\AiIntegrated\\AiIntegrated\\AiIntegrated.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zehra\\.nuget\\packages\\betalgo.openai\\7.2.0\\betalgo.openai.7.2.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\zehra\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
